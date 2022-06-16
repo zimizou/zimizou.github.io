@@ -1,0 +1,48 @@
+a.nav-link {
+    color: #000000;
+}
+
+a.nav-link:hover {
+    color: #8a62e8;
+}
+
+.test{
+    /* margin-top: 200px !important; */
+    margin-left: 100px !important;
+    margin-bottom: 40px !important;
+}
+
+p{text-align: justify;
+
+}
+
+.test2{
+    margin-left: 80px !important;
+    letter-spacing: .7px;
+}
+
+.test2 p{
+    font-size: 13.5px;
+    letter-spacing: .7px;
+    color: #828282;
+    line-height: 24px;
+}
+
+.test3{
+    margin-left: 123px !important;
+}
+
+.test3 img{
+    width: 64%;
+    margin-bottom: 40px !important;
+}
+
+.title{
+    margin-left: 135px !important;
+    margin-bottom: 50px !important;
+    margin-top: 100px !important;
+}
+
+.zimidesign{
+    text-align: left !important;
+}
